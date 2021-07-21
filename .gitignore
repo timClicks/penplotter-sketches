@@ -1,0 +1,10 @@
+# IDE
+.code/
+
+# python
+venv/
+*.pyc
+*.pyo
+__pycache__/
+
+
