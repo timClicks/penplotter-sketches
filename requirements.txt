@@ -1,0 +1,6 @@
+vpype[all]
+penkit
+scikit-learn
+Shapely
+pandas
+
