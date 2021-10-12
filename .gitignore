@@ -1,10 +1,15 @@
 # IDE
 .code/
+.vscode/
+.idea/
 
 # python
 venv/
 *.pyc
 *.pyo
 __pycache__/
+.ipynb_checkpoints/
 
+#rust
+*/target/
 
